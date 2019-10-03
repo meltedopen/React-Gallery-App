@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Gallery-App/static/css/main.c2d25503.chunk.css",
+    "main.js": "/React-Gallery-App/static/js/main.2bf42b3d.chunk.js",
+    "main.js.map": "/React-Gallery-App/static/js/main.2bf42b3d.chunk.js.map",
+    "runtime-main.js": "/React-Gallery-App/static/js/runtime-main.adce08df.js",
+    "runtime-main.js.map": "/React-Gallery-App/static/js/runtime-main.adce08df.js.map",
+    "static/js/2.478ec9e0.chunk.js": "/React-Gallery-App/static/js/2.478ec9e0.chunk.js",
+    "static/js/2.478ec9e0.chunk.js.map": "/React-Gallery-App/static/js/2.478ec9e0.chunk.js.map",
+    "index.html": "/React-Gallery-App/index.html",
+    "precache-manifest.2db4af2cbd7dc86d1c4162a1d7de1fed.js": "/React-Gallery-App/precache-manifest.2db4af2cbd7dc86d1c4162a1d7de1fed.js",
+    "service-worker.js": "/React-Gallery-App/service-worker.js",
+    "static/css/main.c2d25503.chunk.css.map": "/React-Gallery-App/static/css/main.c2d25503.chunk.css.map"
+  }
+}
