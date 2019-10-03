@@ -1,7 +1,7 @@
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Live Version
 https://meltedopen.github.io/React-Gallery-App/
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
